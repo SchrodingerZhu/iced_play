@@ -1,0 +1,32 @@
+[
+  {
+    "name": "snmalloc-rs",
+    "description": "rust binding for the message passing allocator from Microsoft",
+    "url": "https://github.com/SchrodingerZhu/snmalloc-rs"
+  },
+  {
+    "name": "StanfordLib-CUHKSZ",
+    "description": "A cmake delivery version of stanford library, specially patched for CSC3002 students in CUHK(SZ)",
+    "url": "https://github.com/SchrodingerZhu/StanfordLib-CUHKSZ"
+  },
+  {
+    "name": "tulip",
+    "description": "The endpoint of Project Polya, which is a containerized toolsets for project grading",
+    "url": "https://github.com/project-polya/tulip"
+  },
+  {
+    "name": "bench_suite",
+    "description": "A benchmark set for memory allocators",
+    "url": "https://github.com/SchrodingerZhu/bench_suite"
+  },
+  {
+    "name": "assember",
+    "description": "Data Parallel MIPS Toy Assembler",
+    "url": "https://github.com/SchrodingerZhu/assembler"
+  },
+  {
+    "name": "simulator",
+    "description": "a toy simulator for MIPS",
+    "url": "https://github.com/SchrodingerZhu/simulator"
+  }
+]
